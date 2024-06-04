@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcCleaner", "pcCleaner\pcCleaner.csproj", "{EA61BF1D-0C73-41D5-B05A-7333C62A70D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA61BF1D-0C73-41D5-B05A-7333C62A70D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA61BF1D-0C73-41D5-B05A-7333C62A70D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA61BF1D-0C73-41D5-B05A-7333C62A70D8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA61BF1D-0C73-41D5-B05A-7333C62A70D8}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C66D26-C73C-4B3D-BDAD-3975CFD7A101}
+	EndGlobalSection
+EndGlobal
